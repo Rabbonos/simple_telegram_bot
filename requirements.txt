@@ -1,0 +1,8 @@
+python-telegram-bot==21.3
+google.generativeai
+pydub
+google-cloud-storage
+google-cloud-secret-manager
+numpy
+scipy
+openai-whisper
